@@ -8,10 +8,10 @@ function GenerateNewText() {
   // Add property to the object
   this.sentences =
     [
-      "Awesome quote number 1.",
-      "Second awesome quote.",
-      "Yet another great quote.",
-      "Ok, last quote."
+      "I need ibuprofen.",
+      "Where are the oreos?",
+      "Don't merge into master",
+      "Time to get Sassy",
    ];
 }
 
